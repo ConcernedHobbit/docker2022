@@ -2,7 +2,7 @@
 
 Exercise repository for [DevOps with Docker](https://devopswithdocker.com)
 
-| [Part 1](https://github.com/ConcernedHobbit/docker2022/blob/main/Part_1) ||
+| [Part 1](https://github.com/ConcernedHobbit/docker2022/blob/main/Part_1) | /Part_1/ |
 |-----|---------------------------------------------------|
 | 1.1 | [Exercise_1_1.out](https://github.com/ConcernedHobbit/docker2022/blob/main/Part_1/Exercise_1_1.out)
 | 1.2 | [Exercise_1_2.out](https://github.com/ConcernedHobbit/docker2022/blob/main/Part_1/Exercise_1_2.out)
