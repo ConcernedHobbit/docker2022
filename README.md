@@ -25,4 +25,8 @@ Exercise repository for [DevOps with Docker](https://devopswithdocker.com)
 |  | Dockerfile back: Exercise_1_14/back/[Dockerfile](https://github.com/ConcernedHobbit/docker2022/blob/main/Part_1/Exercise_1_14/back/Dockerfile)
 | 1.15 | [concernedhobbit/jallunlaskija](https://hub.docker.com/r/concernedhobbit/jallunlaskija)
 | 1.16 | [docker2022.herokuapp.com](https://docker2022.herokuapp.com)
+
+| [Part 2](https://github.com/ConcernedHobbit/docker2022/blob/main/Part_2) | /Part_2/ |
+|-----|---------------------------------------------------|
 | 2.1 | Exercise_2_1/[docker-compose.yml](https://github.com/ConcernedHobbit/docker2022/blob/main/Part_2/Exercise_2_1/docker-compose.yml)
+| 2.2 | Exercise_2_2/[docker-compose.yml](https://github.com/ConcernedHobbit/docker2022/blob/main/Part_2/Exercise_2_2/docker-compose.yml)
