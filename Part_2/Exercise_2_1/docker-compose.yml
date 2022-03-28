@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+    text-log:
+        image: devopsdockeruh/simple-web-service
+        volumes:
+            - ./text.log:/usr/src/app/text.log
+        container_name: text-log
